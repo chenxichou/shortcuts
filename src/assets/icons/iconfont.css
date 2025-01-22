@@ -1,0 +1,157 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4700356 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1737361472685') format('woff2'),
+       url('iconfont.woff?t=1737361472685') format('woff'),
+       url('iconfont.ttf?t=1737361472685') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-safari:before {
+  content: "\e676";
+}
+
+.icon-youxiang:before {
+  content: "\e63f";
+}
+
+.icon-AdobeWf:before {
+  content: "\e60e";
+}
+
+.icon-AdobeSt:before {
+  content: "\e611";
+}
+
+.icon-drawio:before {
+  content: "\e613";
+}
+
+.icon-capcut:before {
+  content: "\e614";
+}
+
+.icon-PotPlayer:before {
+  content: "\e615";
+}
+
+.icon-AutoCAD:before {
+  content: "\e74a";
+}
+
+.icon-xmind:before {
+  content: "\e602";
+}
+
+.icon-AdobeAi:before {
+  content: "\e604";
+}
+
+.icon-AdobeAe:before {
+  content: "\e605";
+}
+
+.icon-AdobeBr:before {
+  content: "\e606";
+}
+
+.icon-AdobeAu:before {
+  content: "\e607";
+}
+
+.icon-AdobeId:before {
+  content: "\e608";
+}
+
+.icon-AdobePl:before {
+  content: "\e609";
+}
+
+.icon-AdobePs:before {
+  content: "\e60a";
+}
+
+.icon-AdobePr:before {
+  content: "\e60b";
+}
+
+.icon-AdobeSg:before {
+  content: "\e60c";
+}
+
+.icon-AdobeRh:before {
+  content: "\e60d";
+}
+
+.icon-gongnengjianyi:before {
+  content: "\e600";
+}
+
+.icon-Email:before {
+  content: "\e610";
+}
+
+.icon-idea:before {
+  content: "\e603";
+}
+
+.icon-ComfyUI:before {
+  content: "\e744";
+}
+
+.icon-Sublime:before {
+  content: "\e646";
+}
+
+.icon-Typora:before {
+  content: "\e68b";
+}
+
+.icon-Excel:before {
+  content: "\e6d6";
+}
+
+.icon-mac:before {
+  content: "\e667";
+}
+
+.icon-windows:before {
+  content: "\e880";
+}
+
+.icon-word:before {
+  content: "\e619";
+}
+
+.icon-Chrome:before {
+  content: "\ea09";
+}
+
+.icon-linux:before {
+  content: "\e80b";
+}
+
+.icon-ppt:before {
+  content: "\e64f";
+}
+
+.icon-Edge:before {
+  content: "\e612";
+}
+
+.icon-vscode:before {
+  content: "\e60f";
+}
+
+.icon-Firefox:before {
+  content: "\e675";
+}
+
