@@ -81,8 +81,8 @@ const defaultApps = [
   { id: 18, name: 'capcut',chineseName:'剪映', icon: 'icon-capcut' },
   { id: 19, name: 'AutoCAD', icon: 'icon-AutoCAD' },
   { id: 20, name: 'Adobe Ps', icon: 'icon-AdobePs' },
-  // { id: 21, name: 'Adobe Ai', icon: 'icon-AdobeAi' },
-  // { id: 22, name: 'Adobe Ae', icon: 'icon-AdobeAe' },
+  { id: 21, name: 'Adobe Ai', icon: 'icon-AdobeAi' },
+  { id: 22, name: 'Adobe Ae', icon: 'icon-AdobeAe' },
 ]
 
 const apps = ref([])
