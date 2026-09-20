@@ -14,11 +14,9 @@
 - 3、npm install
 - 4、npm run dev
 ## 网站
-[https://kuaijiejian365.com/](https://kuaijiejian365.com/)
 
 ## 贡献
 
 ## 许可证
 
 ## 联系方式
-邮箱: keymaps@foxmail.com
